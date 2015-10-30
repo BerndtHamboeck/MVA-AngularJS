@@ -1,0 +1,21 @@
+﻿<input type="text" ng-model="teamFilter" placeholder="Suchen..." />
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="4">Bundesliga Tabelle</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr ng-repeat="team in teamList | filter: searchFilter">
+            <td>{{$index + 1}}</td>
+            <td><a href="#/teams/{{team.Platz}}">{{team.Klub}}</a></td>
+            <td>{{team.SP}}</td>
+            <td>{{team.S}}</td>
+            <td>{{team.N}}</td>
+            <td>{{team.U}}</td>
+            <td>{{team.Tore}}</td>
+            <td>{{team.Pkt}}</td>
+        </tr>
+    </tbody>
+</table>

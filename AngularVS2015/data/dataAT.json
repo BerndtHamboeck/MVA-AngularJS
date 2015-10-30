@@ -1,0 +1,102 @@
+﻿[
+  {
+    "Platz": "1",
+    "Tore": "34:17",
+    "Klub": "FC Red Bull Salzburg",
+    "SP": "12",
+    "S": "7",
+    "U": "3",
+    "N": "2",
+    "Pkt": "34"
+  },
+  {
+    "Platz": "2",
+    "Tore": "23:16",
+    "Klub": "FK Austria Wien",
+    "SP": "12",
+    "S": "7",
+    "U": "3",
+    "N": "2",
+    "Pkt": "23"
+  },
+  {
+    "Platz": "3",
+    "Tore": "24:16",
+    "Klub": "SK Rapid Wien",
+    "SP": "12",
+    "S": "7",
+    "U": "1",
+    "N": "4",
+    "Pkt": "24"
+  },
+  {
+    "Platz": "4",
+    "Tore": "18:20",
+    "Klub": "FC Admira Wacker Mödling",
+    "SP": "12",
+    "S": "6",
+    "U": "2",
+    "N": "4",
+    "Pkt": "18"
+  },
+  {
+    "Platz": "5",
+    "Tore": "20:23",
+    "Klub": "SV Mattersburg",
+    "SP": "12",
+    "S": "6",
+    "U": "1",
+    "N": "5",
+    "Pkt": "20"
+  },
+  {
+    "Platz": "6",
+    "Tore": "15:14",
+    "Klub": "SK Puntigamer Sturm Graz",
+    "SP": "12",
+    "S": "5",
+    "U": "3",
+    "N": "4",
+    "Pkt": "15"
+  },
+  {
+    "Platz": "7",
+    "Tore": "20:22",
+    "Klub": "SV Grödig",
+    "SP": "12",
+    "S": "3",
+    "U": "3",
+    "N": "6",
+    "Pkt": "20"
+  },
+  {
+    "Platz": "8",
+    "Tore": "13:18",
+    "Klub": "CASHPOINT SCR Altach",
+    "SP": "12",
+    "S": "4",
+    "U": "0",
+    "N": "8",
+    "Pkt": "13"
+  },
+  {
+    "Platz": "9",
+    "Tore": "8:16",
+    "Klub": "RZ Pellets WAC",
+    "SP": "12",
+    "S": "2",
+    "U": "3",
+    "N": "7",
+    "Pkt": "8"
+  },
+  {
+    "Platz": "10",
+    "Tore": "9:22",
+    "Klub": "SV Josko Ried",
+    "SP": "12",
+    "S": "2",
+    "U": "3",
+    "N": "7",
+    "Pkt": "9"
+  }
+]
